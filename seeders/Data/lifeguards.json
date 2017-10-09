@@ -1,0 +1,32 @@
+{
+  "lifeguards": [
+    {
+      "first_name": "Anna",
+      "last_name": "Johnson",
+      "age": 23,
+      "bio": "Very attentive",
+      "BeachId": 1
+    },
+    {
+      "first_name": "Pat",
+      "last_name": "Jacobs",
+      "age": 30,
+      "bio": "fast",
+      "BeachId": 2
+    },
+    {
+      "first_name": "Eva",
+      "last_name": "Lakes",
+      "age": 27,
+      "bio": "Night duty",
+      "BeachId": 2
+    },
+    {
+      "first_name": "Eric",
+      "last_name": "Kohlson",
+      "age": 35,
+      "bio": "heavy lifting",
+      "BeachId": 3
+    }
+  ]
+}

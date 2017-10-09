@@ -1,0 +1,19 @@
+{
+  "beaches": [
+    {
+      "name": "Key West",
+      "location": "FLorida",
+      "sand_rating": 5
+    },
+    {
+      "name": "Daytona",
+      "location": "FLorida",
+      "sand_rating": 6
+    },
+    {
+      "name": "Havelock",
+      "location": "Andaman",
+      "sand_rating": 8
+    }
+  ]
+}
