@@ -1,0 +1,19 @@
+{
+  "SandcastleTools": [
+    {
+      "name": "bucket"
+    },
+    {
+      "name": "chisel"
+    },
+    {
+      "name": "spoon"
+    },
+    {
+      "name": "sieve"
+    },
+    {
+      "name": "spade"
+    }
+  ]
+}

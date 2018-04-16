@@ -1,0 +1,29 @@
+{
+  "castles": [
+    {
+      "description": "The two floor castle",
+      "toolId": 1,
+      "beachId": 1
+    },
+    {
+      "description": "The royal castle",
+      "toolId": 2,
+      "beachId": 1
+    },
+    {
+      "description": "The tiny castle",
+      "toolId": 2,
+      "beachId": 2
+    },
+    {
+      "description": "The warrior castle",
+      "toolId": 3,
+      "beachId": 3
+    },
+    {
+      "description": "The mordern castle",
+      "toolId": 4,
+      "beachId": 3
+    }
+  ]
+}
